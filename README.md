@@ -1,4 +1,4 @@
-CrackingTheCodingInterview
+Cracking The Coding Interview
 =====
 [![License](https://img.shields.io/cocoapods/l/Swinject.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Swift Version](https://img.shields.io/badge/Swift-3.0.x-orange.svg)](https://developer.apple.com/swift)
