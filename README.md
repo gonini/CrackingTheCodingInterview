@@ -1,6 +1,6 @@
 CrackingTheCodingInterview
 =====
-[![License](https://img.shields.io/cocoapods/l/Swinject.svg?style=flat)]()
+[![License](https://img.shields.io/cocoapods/l/Swinject.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Swift Version](https://img.shields.io/badge/Swift-3.0.x-orange.svg)](https://developer.apple.com/swift)
 
 This playground is a collection of solutions to some of the exercises in this book<br />[Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.amazon.co.uk/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_2?ie=UTF8&qid=1437988505&sr=8-2&keywords=cracking+the+code+interview)
