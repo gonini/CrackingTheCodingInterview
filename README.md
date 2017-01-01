@@ -8,4 +8,9 @@ This playground is a collection of solutions to some of the exercises in this bo
 It was created from Chapter 5. This is for personal learning purposes and may be an incorrect answer. It is recommended that you use it only for reference purposes. And here is a much better answer written in Swift.<br />
 [bizz84/CrackingTheCodingInterview](https://github.com/bizz84/CrackingTheCodingInterview#cracking-the-coding-interview-150-programming-questions-and-solutions)
 
-
+## Note
+======
+- Written in Swift 3.0
+- Tested on Xcode 8.0
+- It may or may not be the right answer.
+- Sorry
